@@ -107,6 +107,8 @@ public class ArphenBedrock extends JavaPlugin {
             configFactory.reload();
         }
         loadUtil();
+        blockRepository.update();
+        worldRepository.update();
         sender.sendMessage(ColorUtil.apply("<green>Config reloaded!"));
     }
 
