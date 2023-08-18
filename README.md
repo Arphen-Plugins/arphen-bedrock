@@ -1,3 +1,3 @@
-# arphen-template
+# arphen-bedrock
 
-This is a simple template for the project if you want to use arphen-heart for your projects.
+Ores regenerate after x seconds
