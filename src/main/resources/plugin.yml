@@ -1,6 +1,6 @@
 name: arphen-bedrock
 main: pt.dmms.arphenbedrock.ArphenBedrock
-version: 1.0
+version: 1.1
 author: dmms
 api-version: '1.20'
 website: 'https://github.com/Arphen-Plugins/'
