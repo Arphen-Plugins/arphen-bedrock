@@ -1,0 +1,8 @@
+name: arphen-bedrock
+main: pt.dmms.arphenbedrock.ArphenBedrock
+version: 1.0
+author: dmms
+api-version: '1.20'
+website: 'https://github.com/Arphen-Plugins/'
+depend:
+  - arphen-heart

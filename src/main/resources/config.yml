@@ -1,0 +1,10 @@
+#Regen speed for the block [Measured in ticks](20 ticks = 1s)
+regen-speed: 60
+
+#World where it will work
+worlds:
+  - "world"
+
+#This block type will be ignored
+black-listed-materials:
+  - "BLACK_WOOL"
